@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435670375738",
+    "firebase_url": "https://easyprom34.firebaseio.com",
+    "project_id": "easyprom34",
+    "storage_bucket": "easyprom34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435670375738:android:dd7d53e7e080792d",
+        "android_client_info": {
+          "package_name": "com.example.easyprom34"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435670375738-32q43ganri9hpsmoo5tsfffkqsgkf0n3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easyprom34",
+            "certificate_hash": "463f629ab2e68630867d1052a4c7ebcb6a4f7949"
+          }
+        },
+        {
+          "client_id": "435670375738-onc3af5mfpjlmr304v15vf89rdhio635.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcoW7RgIJo1h83Ovhgp_8jmjRlVw-P_QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435670375738-onc3af5mfpjlmr304v15vf89rdhio635.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
